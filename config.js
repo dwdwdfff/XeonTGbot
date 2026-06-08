@@ -24,15 +24,15 @@
  * or termination of the Telegram bot.
  */
 module.exports = {
-    mainToken: 'BOT_TOKEN', // Bot Token Here 
+    mainToken: '7791360127:AAEd_VkTwNx4o9yEIQs19cY-NlrqmEIXDj4', // Bot Token Here 
     
     S7: '@SeXyxeon13', // Owner, Name
     
-    adminId: 'CHAT_ID', // Owner Chat ID ( control /address, /delresell )
+    adminId: '8051787133', // Owner Chat ID ( control /address, /delresell )
     
-    channel: 'TG_CHANNEL', // TG channel link
+    channel: 'https://t.me/autoleadd', // TG channel link
     
-    group: 'GC_LINK', // TG group link
+    group: 'https://t.me/autoleadd', // TG group link
     
     youtube: 'YOITUBE_LINK', // YouTube Link
     
